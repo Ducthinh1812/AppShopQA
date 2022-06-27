@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Vintage Village Shop</string>
+
+
+    <string name="nav_doanhthu">Danh Thu</string>
+    <string name="nav_quanlySanpham">Quản Lý SảnPhẩm</string>
+    <string name="nav_quanlyHoaDon">Quản Lý Hóa Đơn</string>
+    <string name="nav_themNV">Thêm Nhân Viên</string>
+    <string name="nav_danhSachNV">Danh Sách Nhân Viên</string>
+
+    <string name="nav_changepassword">Đổi mật khẩu</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="nav_taiKhoan">Tài Khoản Cá Nhân</string>
+    <string name="nav_thongke">Thông Tin</string>
+    <string name="nav_account">Tài khoản</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_banchay">Top sản phẩm bán chạy</string>
+    <string name="nav_quanao">Quần áo</string>
+    <string name="nav_phukien">Phụ kiện</string>
+    <string name="nav_trangchu">Trang chủ</string>
+    <string name="nav_sanphamhot">Tin Tức Thời Trang</string>
+    <string name="nav_thongtincuahang">Thông tin cửa hàng</string>
+
+</resources>

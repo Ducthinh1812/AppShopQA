@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_chi_tiet_hdactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.5321100917431193" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_dang_ky.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.176" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_gio_hang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_loading1.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_main.xml" value="0.2078125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_tim_kiem_spactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/activity_web_tin.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/dialog_sua_sp.xml" value="0.25052083333333336" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/dialog_them_sp.xml" value="0.4" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_danh_sach_n_v.xml" value="0.2078125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_phukien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_quan_ly_hoan_don.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_quan_ly_san_pham.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_quanao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.2" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_them_n_v.xml" value="0.2078125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_thong_tin_shop.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_tin_tuc.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_top_doanh_thu.xml" value="0.264" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/fragment_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/icon_sua.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_gio_hang.xml" value="0.4" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_hoa_don.xml" value="0.536" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_nhan_vien.xml" value="0.536" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_quan_ao.xml" value="0.536" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_san_pham.xml" value="0.25052083333333336" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/item_san_pham_new.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/layout_header_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/layout_suakh.xml" value="0.536" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/layout_suanv.xml" value="0.17980072463768115" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/suanv.xml" value="0.2210144927536232" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/layout/thu.xml" value="0.12360688956433637" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/AppShopQA/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.4" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_gio_hang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_loading1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/activity_web_tin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_danh_sach_n_v.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_phukien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_quanao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_them_n_v.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_thong_tin_shop.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_tin_tuc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_top_doanh_thu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/fragment_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/icon.xml" value="0.13125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/item_gio_hang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/item_quan_ao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/layout/layout_header_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/Nhom8/AppShopQA/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/font/font.xml" value="0.16041666666666668" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/font/font1.xml" value="0.16041666666666668" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/font/tensp.xml" value="0.284375" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.264" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_dang_ky.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_gio_hang.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_loading1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_loading_main2.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_main.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_web_tin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_dang_xuat.xml" value="0.1953125" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_phukien.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_quanao.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_sp_hot.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_them_n_v.xml" value="0.22644927536231885" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_thong_tin_shop.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_tin_tuc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_top_doanh_thu.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_trang_chu.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/icon.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/item_gio_hang.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/item_quan_ao.xml" value="0.264" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/layout_header_nav.xml" value="0.24094202898550723" />
+        <entry key="..\:/Exercise Android BT/Du An 1/Nop/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thinh/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA/AppShopQA/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA/AppShopQA/app/src/main/res/layout/item_nhan_vien.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA/AppShopQA/app/src/main/res/layout/layout_suakh.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA/AppShopQA/app/src/main/res/layout/layout_suanv.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/drawable-v24/spinner.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_chi_tiet_hdactivity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_dang_ky.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_gio_hang.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_loading1.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_main.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.21875" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_tim_kiem_spactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/activity_web_tin.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/dialog_sua_sp.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/dialog_them_sp.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_danh_sach_n_v.xml" value="0.21875" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_phukien.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_quan_ly_hoan_don.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_quan_ly_san_pham.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_quanao.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_them_n_v.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_thong_tin_shop.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_tin_tuc.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_top_doanh_thu.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/fragment_trang_chu.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_gio_hang.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_hoa_don.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_nhan_vien.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_quan_ao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_san_pham.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/item_san_pham_new.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/layout_header_nav.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/layout_suakh.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/layout/layout_suanv.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thinh/Documents/laptrinhandroidd/AppShopQA1111/AppShopQA/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/fragment_danh_sach_n_v.xml" value="0.1" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/fragment_phukien.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/fragment_top_doanh_thu.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/item_nhan_vien.xml" value="0.536" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/item_quan_ao.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/thinh/Downloads/ShopQuanao/Nhom8/AppShopQA/app/src/main/res/layout/item_san_pham_new.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_dang_ky.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/activity_quan_password.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_doi_mk.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/thinh/Downloads/longnhph15469_duan1_gd6_nhom8/AppShopQA/app/src/main/res/layout/fragment_thong_tin_shop.xml" value="0.23233695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

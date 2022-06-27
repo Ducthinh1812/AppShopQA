@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/outline_home_black_48"
+            android:id="@+id/nav_trangchu"
+            android:title="@string/nav_trangchu"/>
+        <item
+            android:icon="@drawable/outline_add_shopping_cart_black_48"
+            android:id="@+id/nav_quanao"
+            android:title="@string/nav_quanao"/>
+        <item android:id="@+id/nav_phukien"
+            android:icon="@drawable/outline_add_shopping_cart_black_48"
+            android:title="@string/nav_phukien"/>
+        <item android:id="@+id/nav_sanphamhot"
+            android:icon="@drawable/outline_language_black_48"
+            android:title="@string/nav_sanphamhot"/>
+    </group>
+
+    <item android:title="@string/nav_thongke">
+
+        <menu>
+            <item android:id="@+id/nav_thongtincuahang"
+                android:icon="@drawable/outline_public_black_48"
+                android:title="@string/nav_thongtincuahang" />
+            <item android:id="@+id/nav_quanlySanpham"
+                android:visible="false"
+                android:icon="@drawable/outline_assignment_black_48"
+                android:title="@string/nav_quanlySanpham" />
+            <item android:id="@+id/nav_quanlyHoaDon"
+                android:visible="false"
+                android:icon="@drawable/outline_assignment_black_48"
+                android:title="@string/nav_quanlyHoaDon" />
+            <item android:id="@+id/nav_doanhthu"
+                android:visible="false"
+                android:icon="@drawable/outline_monetization_on_black_48"
+                android:title="@string/nav_doanhthu" />
+
+        </menu>
+    </item>
+
+    <item android:title="@string/nav_account">
+
+        <menu>
+            <item android:id="@+id/nav_themNV"
+                android:visible="false"
+                android:icon="@drawable/outline_person_add_alt_black_48"
+                android:title="@string/nav_themNV" />
+            <item android:id="@+id/nav_danhSachNV"
+                android:visible="false"
+                android:icon="@drawable/outline_groups_black_48"
+                android:title="@string/nav_danhSachNV" />
+            <item android:id="@+id/nav_taiKhoan"
+                android:visible="false"
+                android:icon="@drawable/outline_account_circle_black_48"
+                android:title="@string/nav_taiKhoan" />
+            <item android:id="@+id/nav_change_password"
+                android:icon="@drawable/outline_lock_black_48"
+                android:title="@string/nav_changepassword" />
+            <item android:id="@+id/nav_logout"
+                android:icon="@drawable/outline_login_black_48"
+                android:title="@string/nav_logout" />
+        </menu>
+    </item>
+</menu>

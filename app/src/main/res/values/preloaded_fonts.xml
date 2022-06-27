@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/alegreya_bold</item>
+        <item>@font/alice</item>
+        <item>@font/alike</item>
+        <item>@font/alike_angular</item>
+        <item>@font/artifika</item>
+        <item>@font/arvo</item>
+        <item>@font/cardo</item>
+        <item>@font/stoke_light</item>
+    </array>
+</resources>

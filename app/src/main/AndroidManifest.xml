@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.duan1.appshopqa">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/vintage"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppShopQA">
+        <activity android:name=".activity.TimKiemSPActivity"/>
+        <activity android:name=".activity.ChiTietHDActivity" />
+        <activity
+            android:name=".fragment.TinTuc.WebTinActivity"
+            android:exported="false" />
+        <activity android:name=".activity.LoadingActivity1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".fragment.DangKyActivity" />
+        <activity android:name=".fragment.DangNhapActivity" />
+        <activity android:name=".activity.GioHangActivity" />
+        <activity android:name=".activity.ChiTietSanPham" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".fragment.QuenPasswordActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

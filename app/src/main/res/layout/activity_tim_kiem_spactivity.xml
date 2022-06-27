@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.TimKiemSPActivity">
+    <TextView
+
+        android:textSize="23dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Tìm Kiếm"
+        android:textColor="#181D2D"/>
+
+    <EditText
+        android:layout_margin="20dp"
+        android:id="@+id/editTimKiem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập tên sản phẩm tìm kiếm"/>
+
+    <Button
+        android:layout_gravity="right"
+        android:layout_marginRight="30dp"
+        android:id="@+id/btnTimKiemSP"
+        android:text="Tìm kiếm"
+        android:layout_width="280dp"
+        android:layout_height="50dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="15dp"
+        android:id="@+id/rclTimKiem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
